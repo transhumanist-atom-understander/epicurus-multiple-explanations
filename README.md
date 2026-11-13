@@ -21,7 +21,7 @@ We know there's no evidence when we can propose alternatives, and there's no evi
 I do sometimes propose alternatives adversarially, when I'm annoyed, as Epicurus was, at the unfounded claims of others.
 When I say you lack evidence, the content of my claim is that you cannot rule out other plausible alternatives.
 The right way to make that case, at least in my opinion, is directly: list the alternatives.
-Everything else (you haven't done a study, or you did a study but it wasn't randomized, etc. etc.) is at best a proxy for this substance.
+Everything else (you haven't done a study, or you did a study but it wasn't randomized, etc.) is at best a proxy for this substance.
 
 But, again, it's fun to propose explanations.
 When someone isn't taking what they're saying too seriously, I think I should meet them in the same spirit and play the same game.
