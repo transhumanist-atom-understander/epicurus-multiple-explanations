@@ -43,14 +43,11 @@ Not only did the ancient Greek astronomers know that the moon was reflecting sun
 Since they appear the same size in the sky, the sun must therefore be much larger.
 Steven Weinberg's _To Explain the World_ has a great explanation of the argument.
 
-Whereas Epicurus tells us that maybe the true sizes of the celestial bodies match their apparent size or maybe not.
-And that maybe eclipses are the light going out or maybe it's just being blocked.
-And, furthermore, that we shouldn't let ourselves be intimidated by astronomers.
-
-Well, sure, we shouldn't listen to someone just because they do fancy math.
+Epicurus says that we shouldn't let ourselves be intimidated by astronomers.
+And, sure, we shouldn't listen to someone just because they do fancy math.
 But the ancient Greek astronomers had the real thing: observations that perfectly fit one possibility but not another.
 
 But I still think the ensemble of explanations was the right place to start.
 That's what evidence is: it's what rules out the other explanations.
-The best way to see that you have evidence is to see the alternatives the evidence falsifies.
+The best way to see that you have evidence is to see the alternatives that the evidence falsifies.
 Every other standard of evidence is just a proxy.
