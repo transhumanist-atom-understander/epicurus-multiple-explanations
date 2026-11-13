@@ -4,7 +4,7 @@ Three strikes, but he goes on to say (Makridis translation):
 
 > It is indeed possible that the thunderbolt may be generated in any one of many more ways.
 
-Maybe this is all you need if you're annoyed with people saying it's Zeus's wrath so you'd better make sacrifices at their temple.
+Maybe this is all you need if you're annoyed with people saying it's Zeus's wrath, so you'd better make sacrifices at their temple.
 You just have to say, well, it could be a lot of other things too.
 
 ## Meeting unfounded explanations with more explanations
