@@ -16,7 +16,7 @@ Think of two more.
 
 Or if someone else proposes some bullshit explanation, it's more fun to come up with new explanations than to complain about a lack of evidence.
 But more importantly, that's what it means to lack evidence, right?
-We know there's no evidence when we can propose alternatives, and there's no evidence that falsifies them.
+We know there's no evidence when we can propose alternatives and there's no evidence that falsifies them.
 
 I do sometimes propose alternatives adversarially, when I'm annoyed, as Epicurus was, at the unfounded claims of others.
 When I say you lack evidence, the content of my claim is that you cannot rule out other plausible alternatives.
