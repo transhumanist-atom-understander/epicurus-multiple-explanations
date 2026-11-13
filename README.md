@@ -39,7 +39,7 @@ Reasonable, right?
 But if it's reflected sunlight, then the illuminated part of the moon should always be facing the sun.
 And it is; an enormous unexplained coincidence if the moon is just glowing.
 
-Not only did the ancient Greek astronomers know that the moon was reflecting sunlight, but Aristarchus was able to determine, from the pattern of illumination, that the sun must be much farther from us than the moon.
+Not only did the ancient Greek astronomers know that the moon was reflecting sunlight, but within a generation Aristarchus was able to determine, from the pattern of illumination, that the sun must be much farther from us than the moon.
 Since they appear the same size in the sky, the sun must therefore be much larger.
 Steven Weinberg's _To Explain the World_ has a great explanation of the argument.
 
