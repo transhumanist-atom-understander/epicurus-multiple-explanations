@@ -1,6 +1,6 @@
 In Epicurus's letter to Pythocles, he proposes three different explanations for lightning strikes: compression of air by wind, a cloud suddenly breaking, or a buildup of fire suddenly bursting.
 
-Three strikes, but he goes on to say (Makridis translation):
+All wrong, but he goes on to say (Makridis translation):
 
 > It is indeed possible that the thunderbolt may be generated in any one of many more ways.
 
@@ -51,3 +51,4 @@ But I still think the ensemble of explanations was the right place to start.
 That's what evidence is: it's what rules out the other explanations.
 The best way to see that you have evidence is to see the alternatives that the evidence falsifies.
 Every other standard of evidence is just a proxy.
+
