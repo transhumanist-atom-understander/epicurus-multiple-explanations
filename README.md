@@ -4,14 +4,15 @@ After giving his three (wrong) explanations, Epicurus goes on to say (Makridis t
 
 > It is indeed possible that the thunderbolt may be generated in any one of many more ways.
 
-Maybe this is all you need if you're annoyed with people saying it's Zeus's wrath and their rituals will help avoid it.
-You just have to say, well, it could be a lot of other things instead.
+Maybe this is all you need if you're annoyed with people saying it's Zeus's wrath and they can tell you how to avoid it.
+You just have to say, well, it could be a lot of other things too.
 
 ## Meeting unfounded explanations with more explanations
 
 I used to think you shouldn't propose explanations without evidence. Now I think you should have at least three.
 
-Besides that it's more fun, that's what it means to lack evidence, right? As evidence accumulates, all explanations but one are eventually falsified.
+Besides that it's more fun, that's what it means to lack evidence, right?
+As evidence accumulates, all explanations but one are eventually falsified.
 
 I do sometimes propose bullshit explanations adversarially, when I'm annoyed, as Epicurus was, at the unfounded claims of others.
 When I say you lack evidence, the content of my claim is that you cannot rule out other plausible alternatives.
