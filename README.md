@@ -41,14 +41,13 @@ And it is; an enormous unexplained coincidence if the moon is just glowing.
 
 Not only did the ancient Greek astronomers know that the moon was reflecting sunlight, but within a generation Aristarchus was able to determine, from the pattern of illumination, that the sun must be much farther from us than the moon.
 Since they appear the same size in the sky, the sun must therefore be much larger.
-Steven Weinberg's _To Explain the World_ has a great explanation of the argument.
+Whereas if Aristarchus had been an Epicurean, I guess he should have been satisfied with what Epicurus says on the subject, which is that the true relative sizes could be larger, smaller or the same as the apparent sizes.
 
 Epicurus says that we shouldn't let ourselves be intimidated by astronomers.
 And, sure, we shouldn't listen to someone just because they do fancy math.
 But the ancient Greek astronomers had the real thing: observations that perfectly fit one possibility but not another.
 
-But I still think the ensemble of explanations was the right place to start.
+Still, I think the ensemble of explanations was the right place to start, even when there's strong evidence.
 That's what evidence is: it's what rules out the other explanations.
-The best way to see that you have evidence is to see the alternatives that the evidence falsifies.
+You know you have it when you see it eliminate possibilities.
 Every other standard of evidence is just a proxy.
-
