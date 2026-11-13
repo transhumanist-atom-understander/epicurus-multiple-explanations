@@ -40,7 +40,7 @@ But if it's reflected sunlight, then the illuminated part of the moon should alw
 
 Not only did the ancient Greek astronomers know that the moon was reflecting sunlight, but Aristarchus was able to determine, from the pattern of illumination, that the sun must be much farther from us than the moon.
 Since they appear the same size in the sky, the sun must therefore be much larger.
-Steven Weinberg's _To Explain the World_ has a great explanation of Aristarchus's argument.
+Steven Weinberg's _To Explain the World_ has a great explanation of the argument.
 
 Whereas Epicurus tells us that maybe the true sizes of the celestial bodies match their apparent size or maybe not.
 And that maybe eclipses are the light going out or maybe it's just being blocked.
