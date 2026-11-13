@@ -41,7 +41,7 @@ And it is; an enormous unexplained coincidence if the moon is just glowing.
 
 Not only did the ancient Greek astronomers know that the moon was reflecting sunlight, but within a generation Aristarchus was able to determine, from the pattern of illumination, that the sun must be much farther from us than the moon.
 Since they appear the same size in the sky, the sun must therefore be much larger.
-Whereas if Aristarchus had been an Epicurean, I guess he should have been satisfied with what Epicurus says on the subject, which is that the true relative sizes could be larger, smaller or the same as the apparent sizes.
+Whereas if Aristarchus had been an Epicurean, I guess he should have been satisfied with what Epicurus says on the subject: the true relative sizes could be larger, smaller or the same as the apparent sizes.
 
 Epicurus says that we shouldn't let ourselves be intimidated by astronomers.
 And, sure, we shouldn't listen to someone just because they do fancy math.
